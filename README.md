@@ -9,26 +9,32 @@ This Inventory Management System is a comprehensive mobile application built wit
 - Robust account management options including adding new user accounts, deleting accounts, and changing passwords or emails.
 - Secure password reset functionality.
 
+
 **Product Management**:
 - Efficiently add new products with details such as photos, names, barcodes, and expiration dates.
 - Modify existing product details, including rescan product ID.
 - Comprehensive product categorization with the ability to view, search, and add new categories directly from the app.
 
+
 **Inventory Operations**:
 - Supply products by scanning barcodes and updating inventory quantities.
 - Real-time inventory monitoring through a detailed dashboard that shows current stock levels, product in/out, and expiration statuses.
+
 
 **Navigation and Usability**:
 - Intuitive user interface with easy navigation between different sections like product details, category management, and user settings.
 - Multi-language support enabling users to switch between English and Arabic for improved usability.
 
+
 **Reports and Analytics**:
 - Detailed transaction history accessible through the reports section, with search capabilities to filter by date or keyword.
 - Visual analytics through charts displaying data on inventory status, such as items close to being sold out or nearing expiration.
 
+
 **Reminders and Notifications**:
 - Automated reminders for low-stock items to ensure timely replenishment.
 - Notification system within the app to alert users about important inventory updates.
+
 
 **Additional Features**:
 - Barcode generation directly from the app, with options to print generated barcodes.
